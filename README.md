@@ -10,6 +10,7 @@ This page is created to hold a compilation of CSEL 302 activities
 - Exercise 6 [Link](https://github.com/lZorol/CSEL_302/blob/main/Activities/2B_ARAT_EXER6.ipynb)
 - Exercise 7 [Link](https://github.com/lZorol/CSEL_302/blob/main/Activities/2B_ARAT_EXER7.ipynb)
 - Midterms [Link](https://github.com/lZorol/CSEL_302/blob/main/Activities/2B_ARAT_MIDTERM.ipynb)
+
 This is the compilations of all the activities.
 
 # Hardware Requirement
@@ -17,6 +18,7 @@ This is the compilations of all the activities.
 - Intel® Core™ i9 14th Gen and above
 - Qualcomm Snapdragon 8 gen 3 and above
 - MediaTek Dimensity 9300 5g and above
+
 **Note:** To avoid any errors with the system make sure to use the recommended Hardware Requirements.
 
 # Engine Requirements
@@ -24,4 +26,5 @@ This is the compilations of all the activities.
 - 1,176 kW (1,578 hp; 1,600 PS)
 - 1,408 kW (1,888 hp; 1,914 PS)
 - 1,715 kW (2,300 hp; 2,332 PS)
+
 **Note:** Please make sure your car has one of these when using our program.
