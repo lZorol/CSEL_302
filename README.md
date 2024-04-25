@@ -1,2 +1,5 @@
 # CSEL_302
-subject repo
+## Development
+This page is created to hold a compilation of CSEL 302 activities
+
+## Activities
