@@ -62,24 +62,6 @@ function copy(any) {
   
     alert("Copied the text: " + textToCopy);
   }
-  if (any === 'email'){
-    var textToCopy = "strawhat424@gmail.com";
-
-    var tempInput = document.createElement("input");
-  
-    tempInput.value = textToCopy;
-  
-    document.body.appendChild(tempInput);
-  
-    tempInput.select();
-    tempInput.setSelectionRange(0, 99999); 
-  
-    document.execCommand("copy");
-  
-    document.body.removeChild(tempInput);
-  
-    alert("Copied the text: " + textToCopy);
-  }
 }
 
 function openInNewTab(href) {
